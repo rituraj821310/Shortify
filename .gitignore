@@ -1,0 +1,23 @@
+# Dependencies
+**/node_modules
+
+# Environment files
+**/.env
+
+# Logs
+*.log
+
+# Build folders
+FRONTEND/dist
+BACKEND/dist
+
+# Vite
+.vite
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode
+.idea
