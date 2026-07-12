@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API = "http://localhost:3000/api/create";
+const API = "https://shortify-backend-kq04.onrender.com/api/create";
 
 // Create Short URL
 export const shortenUrl = async (url) => {

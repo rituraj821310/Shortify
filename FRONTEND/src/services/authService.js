@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API = "http://localhost:3000/api/auth";
+const API = "https://shortify-backend-kq04.onrender.com/api/auth";
 
 axios.defaults.withCredentials = true;
 
