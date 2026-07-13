@@ -55,6 +55,12 @@ https://github.com/rituraj821310/Shortify
 
 ---
 
+## 🔗 Generated Short URL & QR Code
+
+![Generated Result](assets/result.png)
+
+---
+
 ## 📊 Dashboard
 
 ![Dashboard](assets/dashboard.png)
